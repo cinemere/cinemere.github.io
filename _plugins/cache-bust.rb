@@ -5,6 +5,7 @@ module Jekyll
         class CacheDigester
             require 'digest/md5'
             require 'pathname'
+            require "resolv-replace"
 
             attr_accessor :file_name, :directory
 

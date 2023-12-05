@@ -1,6 +1,7 @@
 require 'feedjira'
 require 'httparty'
 require 'jekyll'
+require "resolv-replace"
 
 module ExternalPosts
   class ExternalPostsGenerator < Jekyll::Generator
