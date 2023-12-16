@@ -1,13 +1,16 @@
 ---
 layout: page
 title: hello!
-nav: true
+nav: false
 nav_order: 7
 dropdown: true
 children:
+    - title: blog
+      permalink: /blog/
+    - title: divider
     - title: publications
       permalink: /publications/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: repositories
+      permalink: /repositories/
 ---
