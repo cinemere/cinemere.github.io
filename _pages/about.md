@@ -23,8 +23,9 @@ Hi! I am a Research Scientist at AIRI’s dunnolab. My research focuses on machi
 
 Before joining AIRI, I worked as a Machine Learning Research Engineer at Huawei’s Hisilicon division. I hold a Master’s degree in Data Science from Skoltech, where I conducted research on leader-guided evacuation models combining active matter and reinforcement learning. During my Bachelor’s studies in Applied Mathematics and Physics at MIPT, I explored high-energy astrophysics and topological clustering of protein structures during internships at RRI Space Research Institute and  Max Planck MPI-CBG Dresden.
 
-<p>[CV](/assets/docs/cv.pdf).</p>
-
+<!-- <p>[CV](/assets/docs/cv.pdf).</p> -->
+<!-- <p>My CV [here](/assets/docs/cv.pdf).</p> -->
+<a href="assets/pdf/cv.pdf">CV</a> 
 <!-- <a href="assets/pdf/cv.pdf" class="btn btn-primary">Download My CV</a> -->
 <!-- <a href="/assets/pdf/cv.pdf" 
    style="display: inline-block; 
