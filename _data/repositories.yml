@@ -4,6 +4,7 @@ github_users:
 
 github_repos:
   - cinemere/evacuation
+  - cinemere/ad-icrl
   - cinemere/code-classification
   - NevVerVer/dreamerv2_airi
   - Nina-Konovalova/TSP-RL-S_project
