@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Albina! I am a Machine Learning Research Engineer at Huawei, where I work at Hisilicon CPU team. I am broadly interested in AI, especially, Reinforcement learning.
+Hello, I am Albina! I am a Research Engineer at AIRI, where I work at dunnolab. I am broadly interested in AI, especially, Reinforcement learning.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
