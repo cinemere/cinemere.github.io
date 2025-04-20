@@ -68,11 +68,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: cinemere
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: user_cinemere # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: albinakl # your LinkedIn user name
 telegram_username: cinemere # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: 153QBxgAAAAJ&hl=en # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
