@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! My research focuses on machine learning, deep learning and reinforcement learning, with a particular interest in applying these techniques to real-world challenges like learning from raw videos or compiler optimization.
 
-Before, I worked as a Machine Learning Research Engineer at Huawei’s Hisilicon division. I hold a Master’s degree in Data Science from Skoltech, where I conducted research on leader-guided evacuation models combining active matter and reinforcement learning. During my Bachelor’s studies in Applied Mathematics and Physics at MIPT, I explored high-energy astrophysics and topological clustering of protein structures during internships at RRI Space Research Institute and  Max Planck MPI-CBG Dresden.
+Before, I worked as a Machine Learning Research Engineer at Huawei’s Hisilicon division. I hold a Master’s degree in Data Science from Skoltech, where I conducted research on leader-guided evacuation models combining active matter and reinforcement learning. During my Bachelor’s studies in Applied Mathematics and Physics at MIPT, I explored high-energy astrophysics and topological clustering of protein structures during internships at [Space Research Institute RAS](https://iki.cosmos.ru/en) and  Max Planck MPI-CBG Dresden.
 
 <!-- <a href="assets/pdf/cv.pdf">CV</a>  -->
 
