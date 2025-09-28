@@ -7,8 +7,9 @@
   author={Klepach, Albina and Nikulin, Alexander and Zisman, Ilya and Tarasov, Denis and Derevyagin, Alexander and Polubarov, Andrei and Nikita, Lyubaykin and Kurenkov, Vladislav},
   booktitle={ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling},
   year={2025},
-  selected={true},
   html={https://arxiv.org/abs/2502.09680},
+  selected={true},
+  abstract={Leveraging vast amounts of unlabeled internet video data for embodied AI is currently bottlenecked by the lack of action labels and the presence of action-correlated visual distractors. Although recent latent action policy optimization (LAPO) has shown promise in inferring proxy-action labels from visual observations, its performance degrades significantly when distractors are present. To address this limitation, we propose a novel object-centric latent action learning framework that focuses on objects rather than pixels. We leverage self-supervised object-centric pretraining to disentangle action-related and distracting dynamics. This allows LAPO to focus on task-relevant interactions, resulting in more robust proxy-action labels, enabling better imitation learning and efficient adaptation of the agent with just a few action-labeled trajectories. We evaluated our method in eight visually complex tasks in the Distracting Control Suite (DCS) and Distracting MetaWorld (DMW). Our results show that object-centric pretraining mitigates the negative effects of distractors by \emph{50\%}, as measured by downstream task performance: average return and success rate (for DCS and DMW, accordingly)},
 }
 
 @article{KLEPACH2025109359,
@@ -21,5 +22,9 @@
   url = {https://www.sciencedirect.com/science/article/pii/S1007570425007683},
   author = {Albina Klepach and Egor E. Nuzhin and Alexey A. Tsukanov and Nikolay V. Brilliantov},
   keywords = {control theory, reinforcement learning, active matter, artificial forces},
-  selected={true}
+  abstract = {Manipulation of large systems of active particles is a serious challenge across diverse domains, including crowd management, control of robotic swarms, and coordinated material transport. The development of advanced control strategies for complex scenarios is hindered, however, by the lack of scalability and robustness of the existing methods, in particular, due to the need of an individual control for each agent. One possible solution involves controlling a system through a leader or a group of leaders, which other agents tend to follow. Using such an approach we develop an effective control strategy for a leader, combining reinforcement learning (RL) with artificial forces acting on the system. To describe the guidance of active particles by a leader we introduce the generalized Vicsek model. This novel method is then applied to the problem of the effective evacuation by a robot-rescuer (leader) of large groups of people from hazardous places. We demonstrate, that while a straightforward application of RL yields suboptimal results, even for advanced architectures, our approach provides a robust and efficient evacuation strategy. The source code supporting this study is publicly available at: https://github.com/cinemere/evacuation.},
+  publisher={Elsevier},
+  code={https://github.com/cinemere/evacuation},
+  selected={true},
+  bibtex_show={true},
 }
