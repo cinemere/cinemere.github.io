@@ -18,3 +18,24 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+
+// added by cinemere
+
+/* Fixed-size abbreviation badges for publications */
+.pub-icon abbr {
+  display: inline-block;
+  width: 80px;               /* ← fixed width for all badges */
+  padding: 2px 4px !important;
+  font-size: 0.7em !important;
+  font-weight: 600 !important;
+  line-height: 1.2 !important;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 4px !important;
+  background-color: #f0f0f0 !important;
+  color: #555 !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
