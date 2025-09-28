@@ -4,3 +4,7 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Elsevier":
+  url: https://www.elsevier.com
+  color: "#e74c3c"
