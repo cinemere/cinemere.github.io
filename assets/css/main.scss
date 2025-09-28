@@ -24,26 +24,26 @@ $max-content-width: {{ site.max_width }};
 
 /* Fixed-size abbreviation badges for publications */
 /* Override abbr badge to fixed width */
-.abbr {
-  height: auto !important;
-  margin-bottom: 0.5rem !important;
-  display: flex !important;
-  justify-content: center !important;
-}
+// .abbr {
+//   height: auto !important;
+//   margin-bottom: 0.5rem !important;
+//   display: flex !important;
+//   justify-content: center !important;
+// }
 
-.abbr abbr {
-  display: inline-block !important;
-  width: 80px !important;              /* fixed width */
-  padding: 0.25rem 0.4rem !important;  /* reduced padding */
-  font-size: 0.75em !important;
-  font-weight: 600 !important;
-  text-align: center !important;
-  white-space: nowrap !important;
-  overflow: hidden !important;
-  text-overflow: ellipsis !important;
-  border-radius: 4px !important;
-  background-color: #f0f0f0 !important;
-  color: #555 !important;
-  line-height: 1.3 !important;
-  box-sizing: border-box !important;
-}
+// .abbr abbr {
+//   display: inline-block !important;
+//   width: px !important;              /* fixed width */
+//   padding: 0.25rem 0.4rem !important;  /* reduced padding */
+//   font-size: 0.75em !important;
+//   font-weight: 600 !important;
+//   text-align: center !important;
+//   white-space: nowrap !important;
+//   overflow: hidden !important;
+//   text-overflow: ellipsis !important;
+//   border-radius: 4px !important;
+//   background-color: #f0f0f0 !important;
+//   color: #555 !important;
+//   line-height: 1.3 !important;
+//   box-sizing: border-box !important;
+// }
