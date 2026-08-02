@@ -24,4 +24,6 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+    gem 'ostruct' # stdlib gem removed from Ruby 4.0 defaults; required by jekyll-twitter-plugin
+    gem 'resolv-replace' # stdlib gem removed from Ruby 3.4 defaults; required by _plugins/cache-bust.rb
 end
