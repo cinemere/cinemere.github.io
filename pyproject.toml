@@ -1,0 +1,13 @@
+[project]
+name = "cinemere-github-io"
+version = "0.1.0"
+description = "Python tooling for the al-folio site (blog plots and notebooks)"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "plotly",
+    "pillow",
+    "jupyter",
+    "kaleido",
+]
